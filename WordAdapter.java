@@ -10,6 +10,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.android.miwok.R;
+import com.example.android.miwok.Word;
+
 import java.util.ArrayList;
 
 /**
