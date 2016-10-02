@@ -38,7 +38,7 @@ public class PhrasesActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        Mp.release();
+        ReleaseMPPlayer();
     }
 
     @Override

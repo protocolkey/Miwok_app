@@ -80,7 +80,7 @@ public class ColorsActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        Mp.release();
+        ReleaseMPPlayer();
     }
 
     private void donot ()
